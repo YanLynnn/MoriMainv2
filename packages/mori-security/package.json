@@ -1,0 +1,15 @@
+{
+  "name": "mori-security",
+  "version": "1.0.0",
+  "description": "Native security verification layer for Mori iOS",
+  "main": "index.js",
+  "files": [
+    "ios/",
+    "MoriSecurity.podspec"
+  ],
+  "capacitor": {
+    "ios": {
+      "src": "ios"
+    }
+  }
+}

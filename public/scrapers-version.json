@@ -1,0 +1,7 @@
+{
+  "scraperVersion": 2,
+  "updatedAt": 1789818590309,
+  "minAppVersion": "4.3.0",
+  "sourceHash": "ca64a487f73b999ecb4c706bbacd8f5c94ad859d3209eb416617426e00ccf705",
+  "changelog": "Initial versioned scraper core"
+}
